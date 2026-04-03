@@ -38,7 +38,7 @@ I am a Computer Science student at **IIIT Vadodara** with a passion for building
 <a href="https://leetcode.com/u/tarundeepakjain/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
-<a href="https://www.codechef.com/users/tarundeepakjain">
+<a href="https://www.codechef.com/users/tarun_jain0607">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
