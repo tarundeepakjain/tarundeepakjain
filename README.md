@@ -12,7 +12,6 @@ I am a Computer Science student at **IIIT Vadodara** with a passion for building
 * **Collaborations** :: Interested in open-source projects, competitive programming tools, and developer productivity platforms.
 * **Professional Goal** :: Mastering advanced system design, backend optimization, and high-impact software engineering.
 * **Technical Growth** :: Advanced Data Structures & Algorithms and real-world system design patterns.
-* **Note** :: I have authored and validated 10+ original DSA problems for national-level contests, ensuring rigorous test case coverage.
 
 ---
 
