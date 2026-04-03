@@ -45,20 +45,12 @@ I am a Computer Science student at **IIIT Vadodara** with a passion for building
 
 ---
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tarundeepakjain&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarundeepakjain&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 <div align="left">
   <a href="https://linkedin.com/in/tarundeepakjain">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tarundeepakjainofficial@gmail.com">
+  <a href="mailto:tarundeepakjain@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://x.com/tarundeepakjain">
